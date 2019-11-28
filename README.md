@@ -17,3 +17,5 @@
 ### 参考
 - [単語登録(個別登録)｜UDトーク マニュアル](https://teachme.jp/27228/manuals/2963055)
 
+## 作成者
+株式会社インフォアクシア 植木 真（ueki@infoaxia.co.jp)
